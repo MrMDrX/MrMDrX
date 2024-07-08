@@ -5,7 +5,7 @@
 **Passionate | Creative | Continuous Learner**
 
 👋 Welcome to my corner of the digital universe! <br>
-🎓 I'm a Business Intelligence & Image Processing Student <br>
+🎓 I graduated in Business Intelligence & Image Processing Masters <br>
 🔍 Actively seeking new opportunities to expand my knowledge and skills <br>
 🚀 I thrive on turning ideas into reality and enjoy the journey of constant learning <br>
 ✨ I believe in the power of technology to solve real-world problems and make a positive impact <br>
