@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Med a Business Intelligence & Image Processing Student</h2>
+<h2 align="center">Hi 👋! I'm Med, Software & Data Engineer</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 👋 Welcome to my corner of the digital universe! <br>
 🎓 I'm a Business Intelligence & Image Processing Student <br>
-🔍 Actively seeking a 4 to 6 months internship (PFE) starting from February 2024 <br>
+🔍 Actively seeking new opportunities to expand my knowledge and skills <br>
 🚀 I thrive on turning ideas into reality and enjoy the journey of constant learning <br>
 ✨ I believe in the power of technology to solve real-world problems and make a positive impact <br>
 
@@ -16,8 +16,8 @@
 
 - 📈🔍📊 Business Intelligence
 - 🤖🧠💻 AI and Machine Learning
-- 📊📈📉 Data Science and Analytics
-- 💻🔧🌐 IT Infrastructure and Web development
+- 📊📈📉 Data Engineering and Analytics
+- 💻🔧🌐 IT Infrastructure, Mobile & Web development
 
 ###
 
